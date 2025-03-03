@@ -1,1 +1,1 @@
-# Teste
+print (" voce tem pau pequeno")
