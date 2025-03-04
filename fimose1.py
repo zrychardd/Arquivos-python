@@ -1,1 +1,0 @@
-print(" voce tem fimose ")
